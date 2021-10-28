@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "212538719437",
+    "project_id": "howinstagram-24f15",
+    "storage_bucket": "howinstagram-24f15.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:212538719437:android:5a6be3686a656127af3d84",
+        "android_client_info": {
+          "package_name": "com.emaintec.howinstagram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "212538719437-0d7g4g6dd5u66b84lv505osjon3gbaj1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-sfTX5zT8th-aNM9ytpzvJEqVSDlhSdA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "212538719437-0d7g4g6dd5u66b84lv505osjon3gbaj1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
